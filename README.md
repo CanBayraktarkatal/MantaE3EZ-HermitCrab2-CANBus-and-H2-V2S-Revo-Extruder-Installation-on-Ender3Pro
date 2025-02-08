@@ -6,6 +6,7 @@ Before the hardware installation, you need to complete the Hermit Crab V2.0 CAN 
 
 ## Table of Contents
 1. [H2 V2S Revo Extruder to Hermit Crab Tool Plate Installation](https://github.com/CanBayraktarkatal/MantaE3EZ-HermitCrab2-CANBus-and-H2-V2S-Revo-Extruder-installation-on-Ender3Pro/blob/main/H2%20V2S%20Revo%20Extruder%20to%20Hermit%20Crab%20Tool%20Plate%20Installation.md "H2 V2S Revo Extruder to Hermit Crab Tool Plate Installation")
+2. [Hermit Crab V2.0 to Ender 3 Pro Assembly](https://github.com/CanBayraktarkatal/MantaE3EZ-HermitCrab2-CANBus-and-H2-V2S-Revo-Extruder-installation-on-Ender3Pro/blob/main/Hermit%20Crab%20V2.0%20to%20Ender%203%20Pro%20Assembly.md "Hermit Crab V2.0 to Ender 3 Pro Assembly")
 
 ## Tools You May Need
 During the installation, you will need the following tools to install the H2 V2S Revo Extruder to Hermit Crab V2.0:
