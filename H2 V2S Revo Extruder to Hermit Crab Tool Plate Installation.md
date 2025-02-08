@@ -112,3 +112,5 @@ I used [Someline’s Ferrule Crimping Toolkit](https://a.co/d/6WrWCFI "SOMELINE 
 
 The fan wires have polarity, so you need to connect them in the correct order.\
 ![](Images/H2_V2S_Revo_Extruder_to_Hermit_Crab_Tool_Plate_Installation/Blowing_Model_Fan_Kit_Fan_Turbo_Fan_Cables_Connected.png)
+
+Now, you can assemble the fixed plate of the Hermit Crab V2.0 to Ender 3 Pro in the next [part](https://github.com/CanBayraktarkatal/MantaE3EZ-HermitCrab2-CANBus-and-H2-V2S-Revo-Extruder-installation-on-Ender3Pro/blob/main/Hermit%20Crab%20V2.0%20to%20Ender%203%20Pro%20Assembly.md "Hermit Crab V2.0 to Ender 3 Pro Assembly").
